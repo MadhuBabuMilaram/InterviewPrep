@@ -32,3 +32,6 @@ func main() {
 	}
 	fmt.Println()
 }
+
+// Time Complexity O(N) 
+// Space Complexity O(N)
